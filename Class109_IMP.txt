@@ -1,0 +1,27 @@
+Refer the code written by Komal.
+Do not refer pdf.
+Half things are missing.
+
+Also refer the youtube video.
+It is helpful.
+
+We have learned that
+normal distributions can be
+seen as probability
+distributions.
+Mean = Median = Mode in a
+normal distribution and
+corresponds to the peak
+value
+Normal distribution is
+symmetric around the peak
+value.
+68% of all data lie within
+one standard deviation of
+the mean
+95% of all the data lie within
+two standard deviation of
+the mean
+99% of all the data lie within
+three standard deviation of
+the mean
